@@ -6,7 +6,7 @@ A Python quiz game based on the character Makise Kurisu from the anime and visua
 
 ## Features
 
-- Open-ended questions about Makise Kurisu.
+- Five open-ended questions about Makise Kurisu.
 - Interactive gameplay with a score counter.
 - Instant feedback on correct and incorrect answers.
 - End-of-game summary with the final score.
@@ -18,7 +18,7 @@ A Python quiz game based on the character Makise Kurisu from the anime and visua
 ## Usage
 
 1. Clone this repository to your local machine:
-   git clone https://github.com/daisiekbzr/quiz-game.git
+   git clone https://github.com/daisiecommits/quiz-game.git
 
 2. Navigate to the project directory:
    cd makise-kurisu-quiz-game
