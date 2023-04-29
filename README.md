@@ -1,6 +1,6 @@
 # Makise Kurisu Quiz Game
 
-<img src="https://cdn-cf-east.streamable.com/image/mx5vys.jpg" alt="Makise Kurisu" width="300">
+<img src="https://cdn-cf-east.streamable.com/image/mx5vys.jpg" alt="Makise Kurisu" width="500">
 
 A Python quiz game based on the character Makise Kurisu from the anime and visual novel series "Steins;Gate." Test your knowledge about Makise Kurisu and see how well you know her!
 
@@ -32,4 +32,4 @@ A Python quiz game based on the character Makise Kurisu from the anime and visua
 
 ## Screenshot
 
-![quiz-game](game_screenshot.png)
+<img src="game_screenshot.png" alt="Quiz Game" width="500">
