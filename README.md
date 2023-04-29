@@ -32,3 +32,4 @@ A Python quiz game based on the character Makise Kurisu from the anime and visua
 
 ## Screenshot
 
+![quiz-game](game_screenshot.png)
