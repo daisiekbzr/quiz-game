@@ -15,20 +15,13 @@ A Python quiz game based on the character Makise Kurisu from the anime and visua
 
 - Python 3.9.6
 
-## Usage
+## How to run
 
-1. Clone this repository to your local machine:  
-   ```git clone https://github.com/daisiecommits/quiz-game.git```
-
-2. Navigate to the project directory:  
-   ```cd makise-kurisu-quiz-game```
-
-3. Run the game:  
+1. Clone the repository or download the Python script file to your local machine.
+2. Open a terminal or command prompt and navigate to the directory where the script is located.
+3. Run the script by executing the following command:  
    ```python quiz_game.py```
-
-4. Answer the multiple-choice questions by entering the corresponding option number.
-
-5. After answering all the questions, you will receive a summary of your performance with the final score.
+4. Follow the on-screen instructions to play the game.
 
 ## Screenshot
 
