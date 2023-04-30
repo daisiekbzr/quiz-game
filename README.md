@@ -23,6 +23,10 @@ A Python quiz game based on the character Makise Kurisu from the anime and visua
    ```python game_quiz.py```
 4. Follow the on-screen instructions to play the game.
 
+## Acknowledgments
+
+The Makise Kurisu Quiz Game was developed by ```daisiecommits```. It is a simple Python game inspired by the Steins;Gate series. Enjoy the game!
+
 ## Screenshot
 
 <img src="game_screenshot.png" alt="Quiz Game" width="500">
