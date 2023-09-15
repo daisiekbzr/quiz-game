@@ -26,7 +26,7 @@ Welcome to my Makise Kurisu Quiz Game! This Python game allows players to answer
 
 ## Acknowledgments
 
-The Makise Kurisu Quiz Game was developed by <a href="https://github.com/daisiecommits">daisiecommits</a> and based on a tutorial by Tech With Tim. It is a simple Python game inspired by the Steins;Gate series. Enjoy the game!
+The Makise Kurisu Quiz Game was developed by <a href="https://github.com/daisiekbzr">daisiekbzr</a> and based on a tutorial by Tech With Tim. It is a simple Python game inspired by the Steins;Gate series. Enjoy the game!
 
 ## Preview of the Game
 
